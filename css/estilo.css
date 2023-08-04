@@ -1,0 +1,17 @@
+body {
+    background-image:url(/imagens/fundo.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+header {
+    background-color: yellow;
+}
+
+.cartao{
+    display: flex;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 1000px;
+    height: 800px; 
+  }
